@@ -91,10 +91,10 @@ This statement is further supported by the inferential metrics (sensitivity, spe
 
 
 <p align="center">
-<img src="data/20_obs.png" width="350" height="200"/> <img src="data/30_obs.png" width="380" height="200"/> 
+<img src="Grafici%20github/20_obs.png" width="350" height="200"/> <img src="Grafici%20github/30_obs.png" width="380" height="200"/> 
  </p>
  <p align="center">
-<img src="data/50.png" width="350" height="200"/> <img src="data/1000_obs.png" width="380" height="200"/>
+<img src="Grafici%20github/50.png" width="350" height="200"/> <img src="Grafici%20github/1000_obs.png" width="380" height="200"/>
  </p>
 
 
