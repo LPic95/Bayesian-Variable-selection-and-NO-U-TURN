@@ -41,6 +41,7 @@ Methodologies
 <p align="justify">
 The entire project is developed considering all the possible combinations of the sparse methodologies and posterior sampler algorithms shown. 
 <p align="justify">
+ 
 Simulation study
 ----------------
 <p align="justify">
