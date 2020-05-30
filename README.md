@@ -1,3 +1,6 @@
+[![HitCount](http://hits.dwyl.com/LPic95/Bayesian-Variable-selection-and-NO-U-TURN.svg)](http://hits.dwyl.com/LPic95/Bayesian-Variable-selection-and-NO-U-TURN)
+
+
 Bayesian methods for sparse modeling: no “turning back” on the path to variable selection. 
  ----------------
 <p align="justify">
